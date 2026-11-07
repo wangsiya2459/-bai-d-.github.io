@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wangsiya2459.github.io/-bai-d-.github.io/sitemap.xml
